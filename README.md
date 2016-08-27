@@ -2,10 +2,10 @@
 
 Week | Day | Date | Slides | Readings | HW
 ------------ | ------------- | ------------ | ------------- | ------------ | -------------
-1 | Wed | 7/9 | [class 1](https://blackboard.aup.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_218951_1&course_id=_5785_1) | 4  | ex 1
-2 | Wed | 14/9 | [class 1](https://blackboard.aup.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_218951_1&course_id=_5785_1) | 4  | ex 1
-3 | Wed | 21/9 | class 3 | |
-4 | Wed | 28/9 | class 4 | |
+1 | Wed | 7/9 | [class 1](https://blackboard.aup.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_218951_1&course_id=_5785_1) | 4.1-4.4  | ex 1
+2 | Wed | 14/9 | [class 1](https://blackboard.aup.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_218951_1&course_id=_5785_1) | 4.1-4.4  | ex 1
+3 | Wed | 21/9 | class 3 | 2.2,2.4-2.5,4.5-4.6 | ex 2
+4 | Wed | 28/9 | class 4 | 2.2,2.4-2.5,4.5-4.6 | ex 2
 5 | Wed | 5/10 | class 5 | |
 6 | Wed | 12/10 | class 6 | |
 7 | Wed | 19/10 | class 7 | |
