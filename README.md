@@ -4,6 +4,8 @@
 
 * **Course Number:** CS3068
 * **Professor:** Tomer Libal
+* **Office:** SD-09
+* **Office Hours:** Tue 11:00-12:00
 * **Class Schedule:** Wed 12:10-15:05
 * **Credits:** 4
 
