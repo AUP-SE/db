@@ -31,9 +31,29 @@ the server and client side.
 
   * **Exercise**
 
+    * Ex1 in www.newgradiance.com (Due 13/9)
+
   * **Recommended Reading**
 
     * Book chapters 1 and 4.1-4.4
+
+1. 14/9/2016
+
+  * **Topics**
+
+    * The Relational Model
+    * ER Diagrams to Relations
+    * Relational Algebra
+
+  * **Exercise**
+
+    * Ex2 in www.newgradiance.com (Due 20/9)
+
+  * **Recommended Reading**
+
+    * Book chapters 2.1-2.2,2.4-2.5
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
