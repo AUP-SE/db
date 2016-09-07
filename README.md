@@ -31,7 +31,7 @@ the server and client side.
 
   * **Exercise**
 
-    * Ex1 in www.newgradiance.com (Due 13/9)
+    * Ex1 (www.newgradiance.com) - Due 13/9
 
   * **Recommended Reading**
 
@@ -47,7 +47,7 @@ the server and client side.
 
   * **Exercise**
 
-    * Ex2 in www.newgradiance.com (Due 20/9)
+    * Ex2 (www.newgradiance.com) - Due 20/9
 
   * **Recommended Reading**
 
