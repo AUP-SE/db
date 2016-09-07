@@ -37,6 +37,11 @@ the server and client side.
 
     * Book chapters 1 and 4.1-4.4
 
+  * **Slides**
+
+    * [Class
+      1](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_224412_1&course_id=_5785_1)
+
 1. 14/9/2016
 
   * **Topics**
