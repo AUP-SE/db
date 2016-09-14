@@ -42,7 +42,7 @@ the server and client side.
     * [Class
       1](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_224412_1&course_id=_5785_1)
 
-1. 14/9/2016
+2. 14/9/2016
 
   * **Topics**
 
@@ -57,6 +57,30 @@ the server and client side.
   * **Recommended Reading**
 
     * Book chapters 2.1-2.2,2.4-2.5
+
+  * **Slides**
+
+    * [Class
+      2](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_225332_1&course_id=_5785_1)
+
+2. 21/9/2016
+
+  * **Topics**
+
+    * Relational Algebra
+
+  * **Exercise**
+
+    * Ex3 (www.newgradiance.com) - Due 27/9
+
+  * **Recommended Reading**
+
+    * Book chapters 2.4-2.5
+
+  * **Slides**
+
+    * [Class
+      2](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_225332_1&course_id=_5785_1)
 
 
 
