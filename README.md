@@ -79,10 +79,7 @@ the server and client side.
 
   * **Slides**
 
-    * [Class
-      2](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_225332_1&course_id=_5785_1)
-
-
+    * Class 3
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
