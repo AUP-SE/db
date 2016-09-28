@@ -95,7 +95,28 @@ the server and client side.
 
   * **Slides**
 
-    * Class 4
+    * [Class
+      4](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_226282_1&course_id=_5785_1&launch_in_new=true)
+
+4. 5/10/2016
+
+  * **Topics**
+
+    * ElephantSQL
+    * PostgreSQL DDL
+    * SQL
+
+  * **Exercise**
+
+  * **Recommended Reading**
+
+    * Book chapters 2.3, 6.5, 6.1-6.4
+
+  * **Slides**
+
+    * Class 5
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
