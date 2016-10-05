@@ -108,7 +108,7 @@ the server and client side.
 
   * **Exercise**
 
-    * Exercise 4 on the [Blackboard](blackboard.aup.edu)
+    * Exercise 4 on the [Blackboard](https://blackboard.aup.edu)
 
   * **Recommended Reading**
 
