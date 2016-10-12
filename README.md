@@ -135,7 +135,34 @@ the server and client side.
 
   * **Slides**
 
-    * Class 6
+    * [Class
+      6](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_226885_1&course_id=_5785_1)
+
+6. 19/10/2016
+
+  * **Part 1: Midterm Exam**
+
+    * ER Diagrams
+    * Relations and ER to Relations
+    * Relational Algebra
+
+  * **Part 2: Topics**
+
+    * SQL
+
+  * **Exercise**
+
+    * Ex6 (www.newgradiance.com)
+
+  * **Recommended Reading**
+
+    * Book chapters 6.1-6.5
+
+  * **Slides**
+
+    * Class 7
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
