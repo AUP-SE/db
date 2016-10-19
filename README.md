@@ -160,7 +160,8 @@ the server and client side.
 
   * **Slides**
 
-    * Class 7
+    * [Class
+      7](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_227191_1&course_id=_5785_1)
 
 
 
