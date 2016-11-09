@@ -138,7 +138,7 @@ the server and client side.
     * [Class
       6](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_226885_1&course_id=_5785_1)
 
-6. 19/10/2016
+7. 19/10/2016
 
   * **Part 1: Midterm Exam**
 
@@ -162,6 +162,52 @@ the server and client side.
 
     * [Class
       7](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_227191_1&course_id=_5785_1)
+
+8. 26/10/2016
+
+  * **Topics**
+
+    * Database Programming and Stored Procedures
+
+  * **Exercise**
+
+    * Exercise 7 on the [Blackboard](https://blackboard.aup.edu)
+
+  * **Recommended Reading**
+
+    * Book chapter 9.4
+    * [PlPGSQL Manual](https://www.postgresql.org/docs/9.6/static/plpgsql.html)
+
+  * **Slides**
+
+    * [Class
+      8](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_227857_1&course_id=_5785_1&launch_in_new=true)
+
+9. 9/11/2016
+
+  * **Topics**
+
+    * Triggers
+    * PHP Programming
+    * Final Project
+
+  * **Exercise**
+
+    * Exercise 8 on the [Blackboard](https://blackboard.aup.edu)
+
+  * **Recommended Reading**
+
+    * Book chapter 7.5, 9.7
+    * [PHP Manual](http://php.net/manual/en/index.php)
+
+  * **Slides**
+
+    * [Class
+      9](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_227858_1&course_id=_5785_1&launch_in_new=true)
+
+
+
+
 
 
 
