@@ -239,9 +239,9 @@ arrangements, and especially during the Drop/Add and Exam Periods.
 
 ### Grading Policy
 * 10% midterm exam
-* 20% homework
+* 30% homework
 * 20% participation in class and attendance
-* 50% final exam
+* 40% final project
 
 ### Learning Outcome
 On successful completion of this course, the student will be able to
