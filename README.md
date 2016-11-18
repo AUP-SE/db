@@ -205,7 +205,20 @@ the server and client side.
     * [Class
       9](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_227858_1&course_id=_5785_1&launch_in_new=true)
 
+9. 16/11/2016
 
+  * **Topics**
+
+    * Indexes
+    * Intro to Normalization
+
+  * **Recommended Reading**
+
+    * Book chapter 8.3-8.5
+
+  * **Slides**
+
+    * [Class 10](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_228203_1&course_id=_5785_1&launch_in_new=true)
 
 
 
