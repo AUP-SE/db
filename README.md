@@ -237,11 +237,22 @@ the server and client side.
     * [Class
       11](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_228799_1&course_id=_5785_1&launch_in_new=true)
 
+12. 30/11/2016
 
+  * **Topics**
 
+    * Proof Theory
+    * Keys and Superkeys
+    * Normal Forms
+    * Database Normalization
 
+  * **Recommended Reading**
 
+    * Book chapter 8.3-8.5
 
+  * **Slides**
+
+    * [Class 12]()
 
 
 ### Attendance Policy
