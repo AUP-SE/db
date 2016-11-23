@@ -205,7 +205,7 @@ the server and client side.
     * [Class
       9](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_227858_1&course_id=_5785_1&launch_in_new=true)
 
-9. 16/11/2016
+10. 16/11/2016
 
   * **Topics**
 
@@ -219,6 +219,26 @@ the server and client side.
   * **Slides**
 
     * [Class 10](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_228203_1&course_id=_5785_1&launch_in_new=true)
+
+11. 23/11/2016
+
+  * **Topics**
+
+    * Functional Dependencies
+    * Armstrong's axioms
+    * Proof Theory
+
+  * **Recommended Reading**
+
+    * Book chapter 8.3-8.5
+
+  * **Slides**
+
+    * [Class
+      11](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_228799_1&course_id=_5785_1&launch_in_new=true)
+
+
+
 
 
 
