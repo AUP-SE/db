@@ -252,7 +252,25 @@ the server and client side.
 
   * **Slides**
 
-    * [Class 12]()
+    * [Class
+      12](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_229300_1&course_id=_5785_1&launch_in_new=true)
+
+13. 7/12/2016
+
+  * **Topics**
+
+    * Normal Forms
+    * Database Normalization
+
+  * **Recommended Reading**
+
+    * Book chapter 8.3-8.5
+
+  * **Slides**
+
+    * [Class
+      13]()
+
 
 
 ### Attendance Policy
